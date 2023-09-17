@@ -1,0 +1,8 @@
+pID,Type,Name,Brand,Price,oze,feat
+1,D,Ayran,Sutas,20.5,oze1,feat1
+2,F,Simit,Firin,8.0,oze2,feat2
+3,C,Soup,Pepsi,12.5,oze3,feat3
+4,O,Pen,Pilot,2.0,oze4,feat4
+5,D,Cola,Pepsi,5.0,oze5,feat5
+6,D,bilem,Pepsi,9.4,oze6,feat6
+7,K,bant,faber,12.0,dene,deneme

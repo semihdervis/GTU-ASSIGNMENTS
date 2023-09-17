@@ -1,0 +1,5 @@
+id,name,numBooks,isbn
+1,John Doe,1,7
+2,Jane Smith,1,6
+3,Michael Johnson,3,1,2,11
+4,Sarah Thompson,2,4,8

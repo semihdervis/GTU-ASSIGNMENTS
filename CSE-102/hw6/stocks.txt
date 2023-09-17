@@ -1,0 +1,10 @@
+sID,pID,Branch,Current_stock
+1,2,Istanbul,50
+2,6,Izmir,100
+3,5,sinop,75
+4,6,Ankara,0
+5,4,urfa,32
+6,3,urfa,100
+7,3,bursa,20
+8,3,hello,30
+9,3,bursa,60
