@@ -1,0 +1,6 @@
+selim,53,VIP,7
+mert,34,VIP,4
+semih,19,VIP,4
+marry,41,OD,3
+john,34,OD,3
+fatma,49,NORMAL,2
