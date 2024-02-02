@@ -1,0 +1,24 @@
+D 4 root 1704812684
+D 2 hello 1704829765
+D 1 lol1 1704829817
+R essay.txt 1704830414
+What is a scientific essay?
+Before writing your paper, first and foremost, you need to know and understand what an essay on science is. 
+So, what is a scientific essay?
+STOP
+D 0 lol2 1704829820
+D 0 world 1704829779
+R lol.txt 1704830108
+If you are undertaking a course which relates to science, 
+you are more or less apt to write an essay on science. 
+You need to know how to write a science essay irrespective of whether your professor gives you a topic or you come up with one. 
+Additionally, you need to have an end objective in mind. Writing a 
+science essay necessitates that you produce an article which has all the details and facts about the subject 
+matter and it ought to be to the point. 
+Also, you need to know and understand that science essays are more or less different from other types of essays. 
+They require you to be analytical and precise when answering questions. Hence, this can be quite challenging and tiresome. 
+However, that should not deter you from learning how to write your paper. You can always inquire for pre-written research papers 
+for sale from writing services like EssayZoo.
+STOP
+D 1 new 1704830157
+D 0 new1 1704830179
